@@ -3,6 +3,11 @@ Closes #issue-number
 
 ---
 
+## 🔖 Title
+<!-- Brief and clear. Describe the specific task -->
+
+---
+
 ## 📝 Description
 <!-- Describe the changes made in this PR. What problem does it solve? -->
 
